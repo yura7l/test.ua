@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/facebook/graph-sdk" />
+      <path value="$PROJECT_DIR$/vendor/facebook/php-sdk-v4" />
+      <path value="$PROJECT_DIR$/vendor/public/jquery" />
+      <path value="$PROJECT_DIR$/vendor/public/bootstrap" />
+    </include_path>
+  </component>
+</project>
