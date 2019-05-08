@@ -8,7 +8,7 @@ header('Content-Type: text/html; charset=utf-8;');
 <head>
     <title>test</title>
     <script src="/vendor/public/bootstrap/dist/js/bootstrap.js"></script>
-    <link type="text/css" href="/style/style.less">
+    <link rel="stylesheet" type="text/css" href="/style/style.css">
 </head>
 
 <body>
