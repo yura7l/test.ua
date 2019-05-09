@@ -18,5 +18,15 @@ header('Content-Type: text/html; charset=utf-8;');
     Lorem ipsum
 </div>
 
+<div class="color-red">
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+
 </body>
 </html>
